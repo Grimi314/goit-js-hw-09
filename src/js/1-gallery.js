@@ -97,10 +97,3 @@ const lightbox = new SimpleLightbox('.gallery a', {
 });
 
 lightbox.refresh();
-
-// const lightbox = new SimpleLightbox('.gallery a', {
-//   captionsData: 'alt',
-//   captionDelay: 250,
-// });
-
-// lightbox.refresh();
